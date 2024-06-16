@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project basically predicts if an tweet is positive or nagative.
+This project basically predicts if an tweet is positive or negative.
 
 ## Data
 
